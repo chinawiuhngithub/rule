@@ -1,3 +1,2 @@
 geoip, cn, direct
 geoip, us, proxy
-final, proxy
